@@ -109,10 +109,4 @@ Online-Retail-Sales-Analysis/
 
 └── README.md
 
----
 
-## 👩‍💻 Author
-
-**Devyansi Chapadia**
-
-GitHub: https://github.com/YOUR_USERNAME
