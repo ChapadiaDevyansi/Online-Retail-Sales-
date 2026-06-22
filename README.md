@@ -74,7 +74,7 @@ This project presents an end-to-end analysis of an Online Retail dataset using P
 
 ### Top 10 Products by Revenue
 
-![Top Products](images/top_10_products.png)
+![Top Products](dataset/images/Top_Product_revenue.png.png)
 
 ---
 
