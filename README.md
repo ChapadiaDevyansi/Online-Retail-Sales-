@@ -61,7 +61,7 @@ This project presents an end-to-end analysis of an Online Retail dataset using P
 
 ### Dashboard Overview
 
-![Dashboard](dataset/images/dashboard.png)
+![Dashboard](dataset/images/Dashboard.png.png)
 
 
 ### Revenue by Country
