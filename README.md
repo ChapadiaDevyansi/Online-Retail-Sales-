@@ -96,6 +96,7 @@ This project presents an end-to-end analysis of an Online Retail dataset using P
 Online-Retail-Sales-Analysis/
 
 ├── dataset/
+  ---images
 
 ├── notebooks/
 
@@ -103,7 +104,6 @@ Online-Retail-Sales-Analysis/
 
 ├── reports/
 
-├── images/
 
 ├── requirements.txt
 
