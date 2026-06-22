@@ -70,7 +70,7 @@ This project presents an end-to-end analysis of an Online Retail dataset using P
 
 ### Monthly Revenue Trend
 
-![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+![Monthly Revenue Trend](dataset/images/Monthly_Revenue_Trend.png.png)
 
 ### Top 10 Products by Revenue
 
