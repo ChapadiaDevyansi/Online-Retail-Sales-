@@ -66,7 +66,7 @@ This project presents an end-to-end analysis of an Online Retail dataset using P
 
 ### Revenue by Country
 
-![Revenue by Country](images/revenue_by_country.png)
+![Revenue by Country](dataset/images/Top_country_revenue.png.png)
 
 ### Monthly Revenue Trend
 
